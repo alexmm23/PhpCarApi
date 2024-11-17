@@ -1,0 +1,8 @@
+{"id":"1"}
+[]
+JSON:
+{"brand":"prueba","color":"Rojo","id":1,"model":"pruwb","price":2670000,"year":2009}
+{"id":"1"}
+[]
+JSON:
+{"brand":"Ferrari","color":"Rojo","id":1,"model":"Competizione","price":2670000,"year":2009}
